@@ -1,0 +1,23 @@
+body{
+margin:0;
+padding:0;
+background-color:#f1f1f1;
+
+}
+.main{
+background-color:#00008b;
+height:100%
+width:76%;
+border-bottom:1px solid #133783;
+}
+label {
+color:white;
+font-size:40px;
+line-height:60px;
+padding:0 100px;
+font-weight:bold;
+font-family:Algerian;
+}
+ ul li{
+float:reight;
+}
